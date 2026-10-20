@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://nexumapp.ru/sitemap.xml
+Sitemap: https://cvetik7.ru/sitemap.xml
